@@ -1,0 +1,7 @@
+{
+  "name": "maJunbao",
+  "private": true,
+  "dependencies": {
+    "ionic": "latest"
+  }
+}
