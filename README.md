@@ -1,5 +1,5 @@
 # 目录说明
-
+<pre>
 <code>
 ~/Documents/
 ├── /Sources/
@@ -11,6 +11,7 @@
 ├── //
 └── //
 </code>
+</pre>
 
 |Sources|
 	这里主要是使用的技术源码合集，通过 bower 或者 git 管理安装，包括Coffee，Stylus，Jade，HTML5前端框架，PHP、python、ruby后台框架，Node.js框架等。
