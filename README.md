@@ -3,7 +3,7 @@
 对工作有巨大的热情，重视细节，重视和团队人员的交流相处。
 
 ## 2020技术评定述职报告
-
+[颐家技术评定述职报告-马君保.pptx](https://github.com/majunbao/majunbao/blob/master/Others/%E9%A2%90%E5%AE%B6%E6%8A%80%E6%9C%AF%E8%AF%84%E5%AE%9A%E8%BF%B0%E8%81%8C%E6%8A%A5%E5%91%8A-%E9%A9%AC%E5%90%9B%E4%BF%9D.pptx?raw=true)
 
 ## 经验
 * 2015
